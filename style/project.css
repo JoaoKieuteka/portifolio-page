@@ -1,0 +1,42 @@
+:root {
+    --background-color: rgb(1, 1, 19);
+    --text-color: bisque;
+}
+
+body {
+    background-color: var(--background-color);
+
+    color: var(--text-color);
+
+
+}
+
+header{
+
+    text-align: center;
+}
+
+.aboutme{
+
+    text-align: left;
+
+    padding: 0vh 5vh;
+
+}
+
+.myphoto{
+    display: block;
+
+    margin: auto auto;
+}
+
+.subtitles {
+    font-size: 1rem;
+}
+
+
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+
